@@ -1,0 +1,26 @@
+﻿  cpolimorfy.cpp
+C:\Users\andrz\source\repos\cpolimorfy\cpolimorfy\shape.h(23,55): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\andrz\source\repos\cpolimorfy\cpolimorfy\shape.h(23,40): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\andrz\source\repos\cpolimorfy\cpolimorfy\shape.h(42,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  shape.cpp
+C:\Users\andrz\source\repos\cpolimorfy\cpolimorfy\shape.h(23,55): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\andrz\source\repos\cpolimorfy\cpolimorfy\shape.h(23,40): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\andrz\source\repos\cpolimorfy\cpolimorfy\shape.h(42,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+  cpolimorfy.vcxproj -> C:\Users\andrz\source\repos\cpolimorfy\Debug\cpolimorfy.exe
